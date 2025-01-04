@@ -21,6 +21,45 @@ The objective of the Sales and Inventory Dashboard is to analyze sales performan
 
 **6.	Gender & Birth Year:** Sales trends segmented by demographics.
 
+![image](https://github.com/user-attachments/assets/2a346df1-7268-4c24-87cb-ea52ea7d45cb)
+
+## Insights:-
+
+**1.	Sales Dominance:**
+o	Asparagus significantly outperforms other products in terms of sales and revenue contribution.
+
+**2.	Product Pricing:**
+o	High-priced products like asparagus and rhubarb drive significant revenue despite lower quantity sold.
+
+**3.	Customer Contribution:**
+o	A small group of customers (e.g., Amina Loo and Coralie Brent) are responsible for a major portion of purchases, suggesting a high-value customer base.
+
+**4.	Inventory Efficiency:**
+o	Lemon and other low-performing products indicate potential overstock or low customer demand.
+
+**5.	Gender & Age Trends:**
+o	Certain age groups (based on birth year trends) and genders may show purchasing preferences worth targeting for marketing.
+
+## Suggestions:-
+
+**1.	Focus on High-Performing Products:**
+o	Increase inventory and promotions for asparagus and rhubarb to maximize revenue potential.
+
+**2.	Address Underperforming Products:**
+o	Reassess inventory levels for lemon and similar products to reduce overstocking and minimize losses.
+
+**3.	Enhance Customer Engagement:**
+o	Develop loyalty programs or targeted offers for high-value customers like Amina Loo to boost retention and sales.
+
+**4.	Refine Marketing Strategies:**
+o	Use gender and age-based insights to tailor marketing efforts and product recommendations.
+
+**5.	Expand Analysis:**
+o	Include regional data and seasonal trends to further optimize inventory and sales strategies.
+
+
+
+
 
 
 
