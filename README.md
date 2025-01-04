@@ -8,27 +8,18 @@ The objective of the Sales and Inventory Dashboard is to analyze sales performan
 
 ## Project Highlights
 **1.	Key Metrics:**
-o	Total Sales: 1.15K.
 
-o	Total Quantity Sold: 952 units.
+**1.	Total Sales:** 1.15K, Total Quantity Sold: 952, Total Discount Given: 266.60.
 
-o	Total Discount Given: 266.60.
+**2.	Most Sold Product:** Asparagus (39.47%), Least Sold Product: Lemon (31.15%).
 
-**2. Product:**
-o	Most Sold Product: Asparagus (39.47%)
+**3.	Most Expensive Product:** Asparagus (49.13%), followed by Rhubarb and Strawberry.
 
-o	Least Sold Product: Lemon (31.15%)
+**4.	Top Customer:** Amina Loo (488.95 units), followed by Coralie Brent (412.46 units).
 
-o	Most Expensive Product: Asparagus (49.13% of revenue)
+**5.	Product Categories:** Fruits and vegetables analyzed for unit price, quantity, and sales.
 
-**3.	Customer Insights:**
-o	Top Purchaser: Amina Loo (488.95 units purchased)
-
-**4.	Product Categories:**
-o	Fruits and vegetables are analyzed for unit price, quantity, and sales contribution.
-
-**5.	Gender Distribution:**
-o	Sales are broken down by gender and birth year.
+**6.	Gender & Birth Year:** Sales trends segmented by demographics.
 
 
 
