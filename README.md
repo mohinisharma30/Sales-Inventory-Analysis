@@ -7,7 +7,7 @@ The dashboard visually represents sales and inventory data, segmented by product
 The objective of the Sales and Inventory Dashboard is to analyze sales performance and inventory utilization by tracking key metrics like total sales, quantity sold, and discounts. It identifies top-performing products and customers while uncovering demographic and product-based purchasing patterns. This helps in optimizing sales strategies and improving inventory management.
 
 ## Project Highlights
-**1.	Key Metrics:**
+**Key Metrics:**
 
 **1.	Total Sales:** 1.15K, Total Quantity Sold: 952, Total Discount Given: 266.60.
 
@@ -26,36 +26,36 @@ The objective of the Sales and Inventory Dashboard is to analyze sales performan
 ## Insights:-
 
 **1.	Sales Dominance:**
-o	Asparagus significantly outperforms other products in terms of sales and revenue contribution.
+Asparagus significantly outperforms other products in terms of sales and revenue contribution.
 
 **2.	Product Pricing:**
-o	High-priced products like asparagus and rhubarb drive significant revenue despite lower quantity sold.
+High-priced products like asparagus and rhubarb drive significant revenue despite lower quantity sold.
 
 **3.	Customer Contribution:**
-o	A small group of customers (e.g., Amina Loo and Coralie Brent) are responsible for a major portion of purchases, suggesting a high-value customer base.
+A small group of customers (e.g., Amina Loo and Coralie Brent) are responsible for a major portion of purchases, suggesting a high-value customer base.
 
 **4.	Inventory Efficiency:**
-o	Lemon and other low-performing products indicate potential overstock or low customer demand.
+Lemon and other low-performing products indicate potential overstock or low customer demand.
 
 **5.	Gender & Age Trends:**
-o	Certain age groups (based on birth year trends) and genders may show purchasing preferences worth targeting for marketing.
+Certain age groups (based on birth year trends) and genders may show purchasing preferences worth targeting for marketing.
 
 ## Suggestions:-
 
 **1.	Focus on High-Performing Products:**
-o	Increase inventory and promotions for asparagus and rhubarb to maximize revenue potential.
+Increase inventory and promotions for asparagus and rhubarb to maximize revenue potential.
 
 **2.	Address Underperforming Products:**
-o	Reassess inventory levels for lemon and similar products to reduce overstocking and minimize losses.
+Reassess inventory levels for lemon and similar products to reduce overstocking and minimize losses.
 
 **3.	Enhance Customer Engagement:**
-o	Develop loyalty programs or targeted offers for high-value customers like Amina Loo to boost retention and sales.
+Develop loyalty programs or targeted offers for high-value customers like Amina Loo to boost retention and sales.
 
 **4.	Refine Marketing Strategies:**
-o	Use gender and age-based insights to tailor marketing efforts and product recommendations.
+Use gender and age-based insights to tailor marketing efforts and product recommendations.
 
 **5.	Expand Analysis:**
-o	Include regional data and seasonal trends to further optimize inventory and sales strategies.
+Include regional data and seasonal trends to further optimize inventory and sales strategies.
 
 
 
